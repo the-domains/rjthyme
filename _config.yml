@@ -1,7 +1,7 @@
 name: RJThyme
 favicon: null
-layout_spectrum: 0.6856958430726081
-typography_spectrum: 0.9828340143430978
+layout_spectrum: 1
+typography_spectrum: 0.55426
 cta:
   domain: null
   bucket: null
