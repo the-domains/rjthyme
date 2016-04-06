@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[RJThyme]]></title>
         <description><![CDATA[RJThyme]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rjthyme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 17:06:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 17:08:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rjthyme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/rjthyme/9ec82d5a-3416-4868-97c6-a92dc0e31055/index.html</link>
+            <guid isPermaLink="false">9ec82d5a-3416-4868-97c6-a92dc0e31055</guid>
+            <pubDate>Wed, 06 Apr 2016 17:08:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a58e569c-2ae2-4413-88f1-ac4b6fbec81d.jpg">]]></description>
-            <link>undefined2f473b68-83af-4286-af0f-e20588582199/index.html</link>
+            <link>https://thegrid.ai/rjthyme/2f473b68-83af-4286-af0f-e20588582199/index.html</link>
             <guid isPermaLink="false">2f473b68-83af-4286-af0f-e20588582199</guid>
             <pubDate>Wed, 06 Apr 2016 17:04:53 GMT</pubDate>
         </item>
