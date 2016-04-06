@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: First in a new series curated by RJ Thyme
-datePublished: '2016-04-06T23:02:49.480Z'
-dateModified: '2016-04-06T23:02:30.529Z'
+datePublished: '2016-04-06T23:05:13.459Z'
+dateModified: '2016-04-06T23:02:51.989Z'
 author:
   - name: R.J. Thyme
     url: 'http://soundcloud.com/rjthyme'
@@ -51,14 +51,14 @@ app_links:
     namespace: google
     type: ios
 title: "Our Future's Past: 1 by RJ Thyme by R.J. Thyme"
+sourcePath: _posts/2016-04-06-our-futures-past-1-by-rj-thyme-by-rj-thyme.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-04-06-our-futures-past-1-by-rj-thyme-by-rj-thyme.md
-published: true
 url: our-futures-past-1-by-rj-thyme-by-rj-thyme/index.html
 _type: AudioObject
 _context: 'http://schema.org'
