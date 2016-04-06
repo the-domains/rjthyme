@@ -2,6 +2,7 @@ name: RJThyme
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.55426
+title: RJ Thyme
 cta:
   domain: null
   bucket: null
