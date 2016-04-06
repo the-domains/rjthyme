@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: First in a new series curated by RJ Thyme
-datePublished: '2016-04-06T23:05:40.366Z'
-dateModified: '2016-04-06T23:05:37.031Z'
+datePublished: '2016-04-06T23:16:47.346Z'
+dateModified: '2016-04-06T23:16:45.448Z'
 author:
   - name: R.J. Thyme
     url: 'http://soundcloud.com/rjthyme'
