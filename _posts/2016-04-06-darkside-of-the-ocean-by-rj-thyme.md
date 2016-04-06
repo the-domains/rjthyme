@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://bandcamp.com'
-  name: BandCamp
-  favicon: 'https://f4.bcbits.com/img/a3427121616_3.jpg'
-  domain: rjthyme.bandcamp.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - high-quality
   - bandcamp
@@ -18,17 +16,21 @@ keywords:
   - experimental
   - chill
 description: 'Darkside of the Ocean by RJ Thyme, released 25 April 2015'
-inLanguage: en
+datePublished: '2016-04-06T19:17:20.177Z'
+dateModified: '2016-04-06T19:14:35.591Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://rjthyme.bandcamp.com/track/darkside-of-the-ocean'
 title: 'Darkside of the Ocean, by RJ Thyme'
-datePublished: '2016-04-06T19:14:30.167Z'
-dateModified: '2016-04-06T19:12:16.557Z'
 sourcePath: _posts/2016-04-06-darkside-of-the-ocean-by-rj-thyme.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: BandCamp
+  domain: rjthyme.bandcamp.com
+  url: 'http://bandcamp.com'
+  favicon: 'https://f4.bcbits.com/img/a3427121616_3.jpg'
+url: darkside-of-the-ocean-by-rj-thyme/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
