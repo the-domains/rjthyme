@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/RJThyme/status/705401089173000192'
+inLanguage: en
+starred: false
+keywords:
+  - bassmusic
+  - experimentalbass
+  - trippy
+  - location
+  - https
+  - bass
+  - twitter
+  - bizarre
+  - tweet
+  - awozspvhdve
+description: 'wishing you all a #bizarre and #trippy morning https://youtu.be/awOzspvHdVE #bass #experimentalbass #bassmusic'
+datePublished: '2016-04-07T00:38:23.502Z'
+dateModified: '2016-04-06T18:56:19.689Z'
 author:
   - name: rjthyme
     url: 'http://twitter.com/rjthyme'
@@ -23,38 +43,20 @@ author:
           - 246
           - 249
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - bassmusic
-  - experimentalbass
-  - trippy
-  - location
-  - https
-  - bass
-  - twitter
-  - bizarre
-  - tweet
-  - awozspvhdve
-description: 'wishing you all a #bizarre and #trippy morning https://youtu.be/awOzspvHdVE #bass #experimentalbass #bassmusic'
-inLanguage: en
 app_links:
   - path: 'twitter/tweet?status_id=705401089173000192&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E705401089173000192'
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/RJThyme/status/705401089173000192'
-datePublished: '2016-04-06T18:56:13.921Z'
-dateModified: '2016-04-06T18:53:48.671Z'
 title: ''
 sourcePath: _posts/2016-04-06-wishing-you-all-a-bizarre-and-trippy-morning-httpsyoutu.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
