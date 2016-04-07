@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: First in a new series curated by RJ Thyme
-datePublished: '2016-04-07T00:59:32.245Z'
-dateModified: '2016-04-07T00:57:16.112Z'
+datePublished: '2016-04-07T01:01:13.251Z'
+dateModified: '2016-04-07T01:00:42.432Z'
 author:
   - name: R.J. Thyme
     url: 'http://soundcloud.com/rjthyme'
@@ -50,7 +50,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: "Our Future's Past: 1 by RJ Thyme"
+title: "Our Future's Past: 1"
 sourcePath: _posts/2016-04-06-our-futures-past-1-by-rj-thyme-by-rj-thyme.md
 published: true
 authors: []
