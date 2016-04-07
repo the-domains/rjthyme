@@ -16,12 +16,12 @@ keywords:
   - experimental
   - chill
 description: 'Darkside of the Ocean by RJ Thyme, released 25 April 2015'
-datePublished: '2016-04-07T00:33:55.285Z'
-dateModified: '2016-04-07T00:33:54.655Z'
+datePublished: '2016-04-07T00:46:04.020Z'
+dateModified: '2016-04-07T00:45:15.118Z'
 author: []
 related: []
 app_links: []
-title: 'Darkside of the Ocean, by RJ Thyme'
+title: Darkside of the Ocean
 sourcePath: _posts/2016-04-06-darkside-of-the-ocean-by-rj-thyme.md
 published: true
 authors: []
