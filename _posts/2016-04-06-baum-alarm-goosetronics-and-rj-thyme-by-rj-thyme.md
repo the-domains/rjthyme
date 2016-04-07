@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/rjthyme/baum-alarm'
+inLanguage: null
+starred: false
+keywords: []
+description: 'New Track co-written with GooseTronics https://soundcloud.com/goosetronics'
+datePublished: '2016-04-07T01:56:25.920Z'
+dateModified: '2016-04-07T01:56:14.627Z'
 author:
   - name: R.J. Thyme
     url: 'http://soundcloud.com/rjthyme'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'New Track co-written with GooseTronics https://soundcloud.com/goosetronics'
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/rjthyme/baum-alarm'
-title: 'Baum Alarm (GooseTronics & RJ Thyme) by R.J. Thyme'
-datePublished: '2016-04-06T18:59:22.471Z'
-dateModified: '2016-04-06T18:57:51.331Z'
+title: 'Baum Alarm (GooseTronics & RJ Thyme)'
 sourcePath: _posts/2016-04-06-baum-alarm-goosetronics-and-rj-thyme-by-rj-thyme.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
