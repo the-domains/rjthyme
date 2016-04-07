@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: First in a new series curated by RJ Thyme
-datePublished: '2016-04-07T01:01:13.251Z'
-dateModified: '2016-04-07T01:00:42.432Z'
+datePublished: '2016-04-07T01:15:11.733Z'
+dateModified: '2016-04-07T01:14:53.022Z'
 author:
   - name: R.J. Thyme
     url: 'http://soundcloud.com/rjthyme'
