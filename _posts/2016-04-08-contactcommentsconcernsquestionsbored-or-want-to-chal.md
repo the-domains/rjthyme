@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Contact
-datePublished: '2016-04-08T13:22:11.638Z'
-dateModified: '2016-04-08T13:21:14.936Z'
-title: 'Contact/Comments,Concerns:(Questions?Bored;) or want to challenge me to a game of chess?'
+description: ''
+datePublished: '2016-04-08T13:28:27.179Z'
+dateModified: '2016-04-08T13:28:13.606Z'
+title: Contact
 author: []
 authors: []
 publisher:
