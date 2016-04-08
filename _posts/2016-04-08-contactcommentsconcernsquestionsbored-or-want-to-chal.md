@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-08T13:28:27.179Z'
-dateModified: '2016-04-08T13:28:13.606Z'
+datePublished: '2016-04-08T13:41:29.065Z'
+dateModified: '2016-04-08T13:41:16.932Z'
 title: Contact
 author: []
 authors: []
@@ -22,4 +22,8 @@ url: contactcommentsconcernsquestionsbored-or-want-to-chal/index.html
 _type: Article
 
 ---
-Contact
+Contact/Comments,Concerns:(Questions?Bored;) or want to challenge me to a game of chess! 
+
+Contact me. 
+
+rjthymemusic@gmail.com
