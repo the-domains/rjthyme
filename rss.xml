@@ -4,15 +4,8 @@
         <description><![CDATA[RJ Thyme]]></description>
         <link>https://thegrid.ai/rjthyme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:57:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rjthyme/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA['Weather' Mixtape Series]]></title>
-            <description><![CDATA[<article><h1>'Weather' Mixtape Series</h1><p>Where I Go When They Talk About The Weather</p></article>]]></description>
-            <link>https://thegrid.ai/rjthyme/weather-mixtape-series/index.html</link>
-            <guid isPermaLink="false">aa7a072f-96d0-4bf9-a5bd-d726da5fc1f6</guid>
-            <pubDate>Fri, 08 Apr 2016 16:57:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[rjthymemusic@gmail.com]]></title>
             <description><![CDATA[<article><h1>rjthymemusic@gmail.com</h1><p>Contact/Comments,Concerns:(Questions?Bored;) or want to challenge me to a game of chess! </p></article>]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/rjthyme/our-futures-past-1-by-rj-thyme-by-rj-thyme/index.html</link>
             <guid isPermaLink="false">4f631e02-1cee-47d2-be67-498078e31035</guid>
             <pubDate>Fri, 08 Apr 2016 16:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Weather' Mixtape Series]]></title>
+            <description><![CDATA[<article><h1>'Weather' Mixtape Series</h1><p>Where I Go When They Talk About The Weather</p></article>]]></description>
+            <link>https://thegrid.ai/rjthyme/weather-mixtape-series/index.html</link>
+            <guid isPermaLink="false">aa7a072f-96d0-4bf9-a5bd-d726da5fc1f6</guid>
+            <pubDate>Fri, 08 Apr 2016 16:47:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Where I Go When They Talk About The Weather]]></title>
