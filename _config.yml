@@ -1,6 +1,6 @@
 name: RJThyme
 favicon: null
-layout_spectrum: 0.4112
+layout_spectrum: 0.70271
 typography_spectrum: 0.55426
 title: RJ Thyme
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#1f1913'
-    - '#97a344'
-    - '#6e6b35'
-    - '#373616'
-  brandStrength: 0
+    - '#ffffff'
+    - '#022940'
+    - '#96daeb'
+    - '#63a0c1'
+    - '#4f6b7a'
+  brandStrength: 1
   lightness: 0
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
