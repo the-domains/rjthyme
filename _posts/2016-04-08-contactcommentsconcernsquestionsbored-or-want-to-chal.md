@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Contact
-datePublished: '2016-04-08T16:27:34.538Z'
-dateModified: '2016-04-08T13:41:29.560Z'
+description: "Contact/Comments,Concerns:(Questions?Bored;) or want to challenge me to a game of chess!\_"
+datePublished: '2016-04-08T16:57:08.106Z'
+dateModified: '2016-04-08T16:48:12.810Z'
 title: rjthymemusic@gmail.com
 author: []
 authors: []
