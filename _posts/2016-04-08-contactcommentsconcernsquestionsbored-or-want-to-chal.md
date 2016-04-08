@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-08T13:41:29.065Z'
-dateModified: '2016-04-08T13:41:16.932Z'
-title: Contact
+description: Contact
+datePublished: '2016-04-08T16:27:34.538Z'
+dateModified: '2016-04-08T13:41:29.560Z'
+title: rjthymemusic@gmail.com
 author: []
 authors: []
 publisher:
@@ -26,4 +26,4 @@ Contact/Comments,Concerns:(Questions?Bored;) or want to challenge me to a game o
 
 Contact me. 
 
-rjthymemusic@gmail.com
+# rjthymemusic@gmail.com
