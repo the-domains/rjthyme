@@ -4,8 +4,15 @@
         <description><![CDATA[RJ Thyme]]></description>
         <link>https://thegrid.ai/rjthyme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 02:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 13:22:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rjthyme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact/Comments,Concerns:(Questions?Bored;) or want to challenge me to a game of chess?]]></title>
+            <description><![CDATA[<article><h1>Contact/Comments,Concerns:(Questions?Bored;) or want to challenge me to a game of chess?</h1><p>Contact</p></article>]]></description>
+            <link>https://thegrid.ai/rjthyme/contactcommentsconcernsquestionsbored-or-want-to-chal/index.html</link>
+            <guid isPermaLink="false">6fbc2ceb-ad93-4ba3-a8b3-8d76d35b1330</guid>
+            <pubDate>Fri, 08 Apr 2016 13:22:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Future's Past: 1]]></title>
             <description><![CDATA[<article><h1>Our Future's Past: 1</h1><p>First in a new series</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/294070a8c2178e8c61093ddb70752006eea7c628.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rjthyme/f6bcaf89-8f8b-444a-beb9-d21f54732f10/index.html</link>
             <guid isPermaLink="false">f6bcaf89-8f8b-444a-beb9-d21f54732f10</guid>
             <pubDate>Thu, 07 Apr 2016 02:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a58e569c-2ae2-4413-88f1-ac4b6fbec81d.jpg">]]></description>
-            <link>https://thegrid.ai/rjthyme/2f473b68-83af-4286-af0f-e20588582199/index.html</link>
-            <guid isPermaLink="false">2f473b68-83af-4286-af0f-e20588582199</guid>
-            <pubDate>Wed, 06 Apr 2016 17:33:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
