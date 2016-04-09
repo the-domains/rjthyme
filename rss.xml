@@ -4,8 +4,22 @@
         <description><![CDATA[RJ Thyme]]></description>
         <link>https://thegrid.ai/rjthyme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 16:10:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rjthyme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>‘Me’ On Your Mind:</p>]]></description>
+            <link>https://thegrid.ai/rjthyme/82f97d35-ee29-400d-86c3-46450adf8341/index.html</link>
+            <guid isPermaLink="false">82f97d35-ee29-400d-86c3-46450adf8341</guid>
+            <pubDate>Sat, 09 Apr 2016 16:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Weather' Mixtape Series]]></title>
+            <description><![CDATA[<article><h1>'Weather' Mixtape Series</h1><p>Where I Go When They Talk About The Weather</p></article>]]></description>
+            <link>https://thegrid.ai/rjthyme/weather-mixtape-series/index.html</link>
+            <guid isPermaLink="false">aa7a072f-96d0-4bf9-a5bd-d726da5fc1f6</guid>
+            <pubDate>Fri, 08 Apr 2016 16:57:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rjthymemusic@gmail.com]]></title>
             <description><![CDATA[<article><h1>rjthymemusic@gmail.com</h1><p>Contact/Comments,Concerns:(Questions?Bored;) or want to challenge me to a game of chess! </p></article>]]></description>
@@ -19,13 +33,6 @@
             <link>https://thegrid.ai/rjthyme/our-futures-past-1-by-rj-thyme-by-rj-thyme/index.html</link>
             <guid isPermaLink="false">4f631e02-1cee-47d2-be67-498078e31035</guid>
             <pubDate>Fri, 08 Apr 2016 16:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Weather' Mixtape Series]]></title>
-            <description><![CDATA[<article><h1>'Weather' Mixtape Series</h1><p>Where I Go When They Talk About The Weather</p></article>]]></description>
-            <link>https://thegrid.ai/rjthyme/weather-mixtape-series/index.html</link>
-            <guid isPermaLink="false">aa7a072f-96d0-4bf9-a5bd-d726da5fc1f6</guid>
-            <pubDate>Fri, 08 Apr 2016 16:47:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Where I Go When They Talk About The Weather]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rjthyme/f19ab7dc-92b4-41bb-adcf-e37aa22a049b/index.html</link>
             <guid isPermaLink="false">f19ab7dc-92b4-41bb-adcf-e37aa22a049b</guid>
             <pubDate>Wed, 06 Apr 2016 18:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perfek♰ Ryö♰ Radio Hour]]></title>
-            <description><![CDATA[<article><h1>Perfek♰ Ryö♰ Radio Hour</h1><p>A new genre every week - Hosted by RJ Thyme and Klaas von Karlos</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c288804-fa1b-4003-9021-680861ec80e2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rjthyme/perfekwest-syriac-ryowest-syriac-radio-hour/index.html</link>
-            <guid isPermaLink="false">a28750dc-6786-4f3e-a516-0cd779a22fb1</guid>
-            <pubDate>Wed, 06 Apr 2016 17:53:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
