@@ -4,8 +4,15 @@
         <description><![CDATA[RJ Thyme]]></description>
         <link>https://thegrid.ai/rjthyme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 22:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 21:02:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rjthyme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Like an arrow, you must pull back before you fly forward]]></title>
+            <description><![CDATA[<article><h1>Like an arrow, you must pull back before you fly forward</h1><p>Left Europe, playing in the country of my birth...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abb02c20347f87c2474c712df0af7473/croprotate.jpg?cropheight=3024&cropwidth=4032&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0cd25517-c829-4efd-8cc0-e33c2ca3d840.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cd25517-c829-4efd-8cc0-e33c2ca3d840.jpg</link>
+            <guid isPermaLink="false">d25cf53c-da59-499f-857a-b81db4740121</guid>
+            <pubDate>Wed, 20 Jul 2016 21:02:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent.fash1-1.fna.fbcdn.net/t31.0-0/p600x600/13403168_1809964089236589_8698274129158094107_o.jpg">]]></description>
@@ -67,13 +74,6 @@
             <link>https://thegrid.ai/rjthyme/f6bcaf89-8f8b-444a-beb9-d21f54732f10/index.html</link>
             <guid isPermaLink="false">f6bcaf89-8f8b-444a-beb9-d21f54732f10</guid>
             <pubDate>Thu, 07 Apr 2016 02:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baum Alarm (GooseTronics & RJ Thyme) by R.J. Thyme]]></title>
-            <description><![CDATA[<article><h1>Baum Alarm (GooseTronics & RJ Thyme) by R.J. Thyme</h1><p>New Track co-written with GooseTronics https://soundcloud.com/goosetronics</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be8a616aff5beba1870150ba898874ed7e720b12.jpg"></article>]]></description>
-            <link>https://soundcloud.com/rjthyme/baum-alarm</link>
-            <guid isPermaLink="false">f1e54809-e5e6-461a-be60-e12bdab0b09f</guid>
-            <pubDate>Thu, 07 Apr 2016 01:56:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
