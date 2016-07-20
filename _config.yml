@@ -1,29 +1,41 @@
-name: RJThyme
-favicon: null
-layout_spectrum: 0.70271
-typography_spectrum: 0.55426
 title: RJ Thyme
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#0F1A1C'
+    - '#1A2D31'
+    - '#254145'
+    - '#2E5157'
+    - '#355D63'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: RJThyme
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#780a0b'
-    - '#000000'
-    - '#2f13c0'
-    - '#9d9d9f'
-    - '#e5defe'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.55426
+layout_spectrum: 0.70271
